@@ -156,14 +156,6 @@
 # print(f"{otam['ism'].title()}ning sevimli taomi {otam['taom']} ")
 # print(f"{onam['ism'].title()}ning sevimli taomi {onam['taom']} ")
 # print(f"{ukam['ism'].title()}ning sevimli taomi {ukam['taom']} ")
-
-# python = {'else':'agar','list':'ro\'yxat','intger':'butun son','str':'matn'}
-# soz = input("Kalit so'zni kiriting.")
-# for maxs in python:!!!!!!!!!!!!!!!
-#     if maxs in soz:
-#         print(f"{maxs.title()}-{python[maxs].title()}.")
-#     else:
-#         print("Lug'atda bunday so'z yo'q")
         
 # python = {'else':'agar','list':'ro\'yxat','intger':'butun son','str':'matn'}
 # soz = input("Kalit so'zni kiriting:")
@@ -259,19 +251,6 @@
 #     else:
 #         print(float(qiymat)**2)
 # print("Dastur to'xtadi")
-
-# print("Maxsulotlar va ularning norxlarini saqlaymiz")
-# e_bozor = {}
-# ishora = True
-# while ishora:
-#     maxsulot = input("Maxsulot nomini kiriting:")
-#     narx = input(f"{maxsulot.title()}ning narxini kiriting:")
-#     e_bozor[maxsulot]= int(narx)
-#     javob = input("Yana maxsulot qo'shasizimi(ha\yo'q)")
-#     if javob.lower()=="yo'q":
-#         ishora = False
-# for maxsulot, narx in e_bozor.items():!!!!!!!!!!!!!!!!!!
-#     print(e_bozor)
 
 # def yosh_hisobla(ism, yosh, joriy_yil=2021):
 #     """Foydalanuchi yoshini kiritganda,
